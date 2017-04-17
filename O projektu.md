@@ -5,10 +5,10 @@ title: O projektu
 
 
 ## Cílová skupina:
-                    Naší cílovou skupinou jsou ti, které toto téma zajímá. Můžou to být lidé, kteří chtějí začít propagovat nejen svou knihovnu ale klidně nějakou akci nebo sbírku, kterou pořádají. 
+              Naší cílovou skupinou jsou ti, které toto téma zajímá. Můžou to být lidé, kteří chtějí začít propagovat nejen svou                       knihovnu ale klidně nějakou akci nebo sbírku, kterou pořádají. 
 
 ## Cíl webu: 
-  Cílem by bylo informovat širokou veřejnost, ale i knihovníky o marketingu, který by fungoval v knihovnách.
+              Cílem by bylo informovat širokou veřejnost, ale i knihovníky o marketingu, který by fungoval v knihovnách.
   
 ## 5 webových zdrojů:  
                     http://www.inflow.cz/marketing-v-knihovnach-cast-i
@@ -46,9 +46,9 @@ title: O projektu
               https://www.youtube.com/watch?v=VCXAS49u4R4
 
 ## vizuální inspirace:
-              The Library Marketing Toolkit by Ned Potter
+          The Library Marketing Toolkit by Ned Potter
 ## Obsah: 
-              Všechny témata bych čerpala z knihy *The Library Marketing Toolkit*, kterou napsal Ned Potter. Nadpisy by zůstaly v orginálech, ale samotný popis všech bodů bude česky. 
+          Všechny témata bych čerpala z knihy *The Library Marketing Toolkit*, kterou napsal Ned Potter. Nadpisy by zůstaly v                       orginálech, ale samotný popis všech bodů bude česky. 
 ### Introduction
   - About marketing
   - About this book  
@@ -131,7 +131,7 @@ title: O projektu
   - A final word on marketing libraries
 
 ## Strategie zveřejňování: 
-              Vkládání postupně, zveřejňovat můžeme hned po vkládání nebo i v nějakých intervalech.
+      Vkládání postupně, zveřejňovat můžeme hned po vkládání nebo i v nějakých intervalech.
               
 ## O nás autorkách
       Jmenujeme se Markéta Wolna a Sára Hrabalová a je nám 21 a 19 let. 
