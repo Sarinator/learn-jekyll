@@ -39,11 +39,11 @@ title: O projektu
 
                      
 ## multimédia:   
-            [odkaz](https://www.youtube.com/watch?v=FtMVHVRhEwE)
+               [odkaz](https://www.youtube.com/watch?v=FtMVHVRhEwE)
 
-              <https://www.youtube.com/watch?v=41I0NFwChcM>
+              [odkaz](https://www.youtube.com/watch?v=41I0NFwChcM)
 
-              <https://www.youtube.com/watch?v=VCXAS49u4R4>
+              [odkaz](https://www.youtube.com/watch?v=VCXAS49u4R4)
 
 ## vizuální inspirace:
           The Library Marketing Toolkit by Ned Potter
