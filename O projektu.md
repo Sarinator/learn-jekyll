@@ -48,7 +48,7 @@ title: O projektu
 ## vizuální inspirace:
           The Library Marketing Toolkit by Ned Potter
 ## Obsah: 
-          Všechny témata bych čerpala z knihy *The Library Marketing Toolkit*, kterou napsal Ned Potter. Nadpisy by zůstaly v                       orginálech, ale samotný popis všech bodů bude česky. 
+          Všechny témata bychom čerpaly z knihy *The Library Marketing Toolkit*, kterou napsal Ned Potter. Nadpisy by zůstaly v                       orginálech, ale samotný popis všech bodů bude česky. 
 ### Introduction
   - About marketing
   - About this book  
