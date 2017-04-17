@@ -4,7 +4,7 @@ title: O projektu
 ---
 
 
-<<<<<<< HEAD
+
 ## Cílová skupina:
                     Naší cílovou skupinou jsou ti, které toto téma zajímá. Mùžou to být lidé, kteøí chtìjí zaèít propagovat nejen svou knihovnu ale klidnì nìjakou akci nebo sbírku, kterou poøádají. 
 =======
@@ -50,17 +50,16 @@ title: O projektu
 
               https://www.youtube.com/watch?v=VCXAS49u4R4
 
-<<<<<<< HEAD
 ## vizuální inspirace:
               The Library Marketing Toolkit by Ned Potter
 ## Obsah: 
               Všechny témata bych èerpala z knihy *The Library Marketing Toolkit*, kterou napsal Ned Potter. Nadpisy by zùstaly v orginálech, ale samotný popis všech bodù bude èesky. 
-=======
+
 ## vizuÃ¡lnÃ­ inspirace:   The Library Marketing Toolkit by Ned Potter
 
 ## Obsah:             
                 VÅ¡echny tÃ©mata bychom Äerpaly z knihy *The Library Marketing Toolkit*, kterou napsal Ned Potter. Nadpisy by zÅ¯staly v                     orginÃ¡lech, ale samotnÃ½ popis vÅ¡ech bodÅ¯ bude Äesky. 
->>>>>>> origin/master
+
 ### Introduction
   - About marketing
   - About this book  
@@ -139,7 +138,6 @@ title: O projektu
   - Crowdsourcing
   - Marketing audiovisual materials
   - A final word on marketing libraries
-<<<<<<< HEAD
 
 ## Strategie zveøejòování: 
               Vkládání postupnì, zveøejòovat mùžeme hned po vkládání nebo i v nìjakých intervalech.
@@ -153,4 +151,3 @@ title: O projektu
 
 ## Strategie zveÅ™ejÅˆovÃ¡nÃ­: 
                       VklÃ¡dÃ¡nÃ­ postupnÄ›, zveÅ™ejÅˆovat mÅ¯Å¾eme hned po vklÃ¡dÃ¡nÃ­ nebo i v nÄ›jakÃ½ch intervalech.
->>>>>>> origin/master
