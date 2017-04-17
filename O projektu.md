@@ -4,8 +4,13 @@ title: O projektu
 ---
 
 
+<<<<<<< HEAD
 ## Cílová skupina:
                     Naší cílovou skupinou jsou ti, které toto téma zajímá. Mùžou to být lidé, kteøí chtìjí zaèít propagovat nejen svou knihovnu ale klidnì nìjakou akci nebo sbírku, kterou poøádají. 
+=======
+## CÃ­l webu: 
+                     CÃ­lem by bylo informovat Å¡irokou veÅ™ejnost, ale i knihovnÃ­ky o marketingu, kterÃ½ by fungoval v knihovnÃ¡ch.
+>>>>>>> origin/master
 
 ## Cíl webu: 
   Cílem by bylo informovat širokou veøejnost, ale i knihovníky o marketingu, který by fungoval v knihovnách.
@@ -45,10 +50,17 @@ title: O projektu
 
               https://www.youtube.com/watch?v=VCXAS49u4R4
 
+<<<<<<< HEAD
 ## vizuální inspirace:
               The Library Marketing Toolkit by Ned Potter
 ## Obsah: 
               Všechny témata bych èerpala z knihy *The Library Marketing Toolkit*, kterou napsal Ned Potter. Nadpisy by zùstaly v orginálech, ale samotný popis všech bodù bude èesky. 
+=======
+## vizuÃ¡lnÃ­ inspirace:   The Library Marketing Toolkit by Ned Potter
+
+## Obsah:             
+                VÅ¡echny tÃ©mata bychom Äerpaly z knihy *The Library Marketing Toolkit*, kterou napsal Ned Potter. Nadpisy by zÅ¯staly v                     orginÃ¡lech, ale samotnÃ½ popis vÅ¡ech bodÅ¯ bude Äesky. 
+>>>>>>> origin/master
 ### Introduction
   - About marketing
   - About this book  
@@ -127,6 +139,7 @@ title: O projektu
   - Crowdsourcing
   - Marketing audiovisual materials
   - A final word on marketing libraries
+<<<<<<< HEAD
 
 ## Strategie zveøejòování: 
               Vkládání postupnì, zveøejòovat mùžeme hned po vkládání nebo i v nìjakých intervalech.
@@ -135,3 +148,9 @@ title: O projektu
       Jmenujeme se Markéta Wolna a Sára Hrabalová a je nám 21 a 19 let. 
       Studujeme Informaèní Studia a Knihovnictví na Masarykovì Univerzitì v Brnì.
       Tento projekt je souèástí pøedmìtu **Nástroje a Možnosti Internetu - NAMI**.
+=======
+
+
+## Strategie zveÅ™ejÅˆovÃ¡nÃ­: 
+                      VklÃ¡dÃ¡nÃ­ postupnÄ›, zveÅ™ejÅˆovat mÅ¯Å¾eme hned po vklÃ¡dÃ¡nÃ­ nebo i v nÄ›jakÃ½ch intervalech.
+>>>>>>> origin/master
