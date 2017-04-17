@@ -39,7 +39,7 @@ title: O projektu
 
                      
 ## multimédia:   
-              <https://www.youtube.com/watch?v=FtMVHVRhEwE>
+            [odkaz](https://www.youtube.com/watch?v=FtMVHVRhEwE)
 
               <https://www.youtube.com/watch?v=41I0NFwChcM>
 
