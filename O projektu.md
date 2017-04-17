@@ -11,19 +11,19 @@ title: O projektu
               Cílem by bylo informovat širokou veřejnost, ale i knihovníky o marketingu, který by fungoval v knihovnách.
   
 ## 5 webových zdrojů:  
-                    http://www.inflow.cz/marketing-v-knihovnach-cast-i
+                    <http://www.inflow.cz/marketing-v-knihovnach-cast-i>
 
-                    http://www.inflow.cz/marketing-v-knihovnach-cast-ii
+                    <http://www.inflow.cz/marketing-v-knihovnach-cast-ii>
                     
-                    http://marketing.knihovna.cz
+                    <http://marketing.knihovna.cz>
                     
-                    http://oldknihovna.nkp.cz/knihovnaplus132/lonska.htm
+                    <http://oldknihovna.nkp.cz/knihovnaplus132/lonska.htm>
                     
-                    http://www.inflow.cz/propagace-knihoven-na-facebooku
+                    <http://www.inflow.cz/propagace-knihoven-na-facebooku>
                     
-                    https://ikaros.cz/klicove-slovo/propagace-knihoven
+                    <https://ikaros.cz/klicove-slovo/propagace-knihoven>
                     
-                    https://www.latrine.cz/co-by-vas-vratilo-do-knihoven
+                    <https://www.latrine.cz/co-by-vas-vratilo-do-knihoven>
 
 
 ## 5 ne-webových zdrojů:
@@ -39,16 +39,18 @@ title: O projektu
 
                      
 ## multimédia:   
-              https://www.youtube.com/watch?v=FtMVHVRhEwE 
+              <https://www.youtube.com/watch?v=FtMVHVRhEwE>
 
-              https://www.youtube.com/watch?v=41I0NFwChcM
+              <https://www.youtube.com/watch?v=41I0NFwChcM>
 
-              https://www.youtube.com/watch?v=VCXAS49u4R4
+              <https://www.youtube.com/watch?v=VCXAS49u4R4>
 
 ## vizuální inspirace:
           The Library Marketing Toolkit by Ned Potter
+          
 ## Obsah: 
           Všechny témata bychom čerpaly z knihy *The Library Marketing Toolkit*, kterou napsal Ned Potter. Nadpisy by zůstaly v                       orginálech, ale samotný popis všech bodů bude česky. 
+          
 ### Introduction
   - About marketing
   - About this book  
