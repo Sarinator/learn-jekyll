@@ -30,3 +30,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - mock/*
+encoding: UTF-8
