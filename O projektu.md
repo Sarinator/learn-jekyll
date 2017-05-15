@@ -4,62 +4,53 @@ title: O projektu
 ---
 
 
+## CÃ­lovÃ¡ skupina:
+              NaÅ¡Ã­ cÃ­lovou skupinou jsou ti, kterÃ© toto tÃ©ma zajÃ­mÃ¡. MÅ¯Å¾ou to bÃ½t lidÃ©, kteÅ™Ã­ chtÄ›jÃ­ zaÄÃ­t propagovat nejen svou                       knihovnu ale klidnÄ› nÄ›jakou akci nebo sbÃ­rku, kterou poÅ™Ã¡dajÃ­. 
 
-## Cílová skupina:
-                    Naší cílovou skupinou jsou ti, které toto téma zajímá. Mùou to bıt lidé, kteøí chtìjí zaèít propagovat nejen svou knihovnu ale klidnì nìjakou akci nebo sbírku, kterou poøádají. 
-=======
 ## CÃ­l webu: 
-                     CÃ­lem by bylo informovat Å¡irokou veÅ™ejnost, ale i knihovnÃ­ky o marketingu, kterÃ½ by fungoval v knihovnÃ¡ch.
->>>>>>> origin/master
-
-## Cíl webu: 
-  Cílem by bylo informovat širokou veøejnost, ale i knihovníky o marketingu, kterı by fungoval v knihovnách.
+              CÃ­lem by bylo informovat Å¡irokou veÅ™ejnost, ale i knihovnÃ­ky o marketingu, kterÃ½ by fungoval v knihovnÃ¡ch.
   
-## 5 webovıch zdrojù:  
-                    http://www.inflow.cz/marketing-v-knihovnach-cast-i
+## 5 webovÃ½ch zdrojÅ¯:  
+                    <http://www.inflow.cz/marketing-v-knihovnach-cast-i>
 
-                    http://www.inflow.cz/marketing-v-knihovnach-cast-ii
+                    <http://www.inflow.cz/marketing-v-knihovnach-cast-ii>
                     
-                    http://marketing.knihovna.cz
+                    <http://marketing.knihovna.cz>
                     
-                    http://oldknihovna.nkp.cz/knihovnaplus132/lonska.htm
+                    <http://oldknihovna.nkp.cz/knihovnaplus132/lonska.htm>
                     
-                    http://www.inflow.cz/propagace-knihoven-na-facebooku
+                    <http://www.inflow.cz/propagace-knihoven-na-facebooku>
                     
-                    https://ikaros.cz/klicove-slovo/propagace-knihoven
+                    <https://ikaros.cz/klicove-slovo/propagace-knihoven>
                     
-                    https://www.latrine.cz/co-by-vas-vratilo-do-knihoven
+                    <https://www.latrine.cz/co-by-vas-vratilo-do-knihoven>
 
 
-## 5 ne-webovıch zdrojù:
+## 5 ne-webovÃ½ch zdrojÅ¯:
                       https://www.slideshare.net/barabuchtova/jak-propagovat-knihovnu
 
-                      KOTLER, Philip, Dipak JAIN a Suvit MAESINCEE. Marketing v pohybu: Novı pøístup k zisku, rùstu a obnovì. Management                       Press, 2007. ISBN 8072611614.
+                      KOTLER, Philip, Dipak JAIN a Suvit MAESINCEE. Marketing v pohybu: NovÃ½ pÅ™Ã­stup k zisku, rÅ¯stu a obnovÄ›. Management                       Press, 2007. ISBN 8072611614.
                       
                       SEDLACEK, Jiri. E-komerce : internetovy a mobil marketing od A do Z. Praha : Ben, 2006. 350 s. ISBN 80-7300-195-0.
                       
                       WIND, Jerry; MAHAJAN, Vijay. Digital marketing : global strategies from the world's leading experts. New York :                           John  Wiley & Sons, 2001. 416 s. ISBN 0-471-36122-4.
                       
-                      ANTLOVÁ, Martina. Propagace knihoven a jejich slueb [online]. Brno, 2006 [cit. 2017-04-17]. Dostupné z:                                 https://is.muni.cz/th/74203/ff_b/MASARYKOVA_UNIVERZITA_V.pdf. Bakaláøská práce. Masarykova Univerzita, Filozofická                       fakulta, Ústav èeské literatury a knihovnictví, Kabinet knihovnictví. Vedoucí práce Mgr. Petr Škyøík.
+                      ANTLOVÃ, Martina. Propagace knihoven a jejich sluÅ¾eb [online]. Brno, 2006 [cit. 2017-04-17]. DostupnÃ© z:                                 https://is.muni.cz/th/74203/ff_b/MASARYKOVA_UNIVERZITA_V.pdf. BakalÃ¡Å™skÃ¡ prÃ¡ce. Masarykova Univerzita, FilozofickÃ¡                       fakulta, Ãšstav ÄeskÃ© literatury a knihovnictvÃ­, Kabinet knihovnictvÃ­. VedoucÃ­ prÃ¡ce Mgr. Petr Å kyÅ™Ã­k.
 
                      
-## multimédia:   
-              https://www.youtube.com/watch?v=FtMVHVRhEwE 
+## multimÃ©dia:   
+               [odkaz](https://www.youtube.com/watch?v=FtMVHVRhEwE)
 
-              https://www.youtube.com/watch?v=41I0NFwChcM
+              [odkaz](https://www.youtube.com/watch?v=41I0NFwChcM)
 
-              https://www.youtube.com/watch?v=VCXAS49u4R4
+              [odkaz](https://www.youtube.com/watch?v=VCXAS49u4R4)
 
-## vizuální inspirace:
-              The Library Marketing Toolkit by Ned Potter
+## vizuÃ¡lnÃ­ inspirace:
+          The Library Marketing Toolkit by Ned Potter
+          
 ## Obsah: 
-              Všechny témata bych èerpala z knihy *The Library Marketing Toolkit*, kterou napsal Ned Potter. Nadpisy by zùstaly v orginálech, ale samotnı popis všech bodù bude èesky. 
-
-## vizuÃ¡lnÃ­ inspirace:   The Library Marketing Toolkit by Ned Potter
-
-## Obsah:             
-                VÅ¡echny tÃ©mata bychom Äerpaly z knihy *The Library Marketing Toolkit*, kterou napsal Ned Potter. Nadpisy by zÅ¯staly v                     orginÃ¡lech, ale samotnÃ½ popis vÅ¡ech bodÅ¯ bude Äesky. 
-
+          VÅ¡echny tÃ©mata bychom Äerpaly z knihy *The Library Marketing Toolkit*, kterou napsal Ned Potter. Nadpisy by zÅ¯staly v                       orginÃ¡lech, ale samotnÃ½ popis vÅ¡ech bodÅ¯ bude Äesky. 
+          
 ### Introduction
   - About marketing
   - About this book  
@@ -123,12 +114,14 @@ title: O projektu
   - Marketing to internal stakeholders
   - Marketing with internal stakeholders: co-operative promotion  
 ### 10. Library advocacy as marketing
+
   - National campaigns and local marketing 
   - Promoting your library in response to criticism of libraries in general
   - Advocacy, promotion and positive messages 
   - The library media narrative
   - Trojan horse advocacy  
 ### 11. Marketing special collections and archives
+
   - Introduction
   - Access, access, access: marketing digital collections
   - Genealogy
@@ -139,15 +132,12 @@ title: O projektu
   - Marketing audiovisual materials
   - A final word on marketing libraries
 
-## Strategie zveøejòování: 
-              Vkládání postupnì, zveøejòovat mùeme hned po vkládání nebo i v nìjakıch intervalech.
-              
-## O nás autorkách
-      Jmenujeme se Markéta Wolna a Sára Hrabalová a je nám 21 a 19 let. 
-      Studujeme Informaèní Studia a Knihovnictví na Masarykovì Univerzitì v Brnì.
-      Tento projekt je souèástí pøedmìtu **Nástroje a Monosti Internetu - NAMI**.
-=======
-
-
 ## Strategie zveÅ™ejÅˆovÃ¡nÃ­: 
-                      VklÃ¡dÃ¡nÃ­ postupnÄ›, zveÅ™ejÅˆovat mÅ¯Å¾eme hned po vklÃ¡dÃ¡nÃ­ nebo i v nÄ›jakÃ½ch intervalech.
+      VklÃ¡dÃ¡nÃ­ postupnÄ›, zveÅ™ejÅˆovat mÅ¯Å¾eme hned po vklÃ¡dÃ¡nÃ­ nebo i v nÄ›jakÃ½ch intervalech.
+              
+## O nÃ¡s autorkÃ¡ch
+      Jmenujeme se MarkÃ©ta Wolna a SÃ¡ra HrabalovÃ¡ a je nÃ¡m 21 a 19 let. 
+      Studujeme InformaÄnÃ­ Studia a KnihovnictvÃ­ na MasarykovÄ› UniverzitÄ› v BrnÄ›.
+      Tento projekt je souÄÃ¡stÃ­ pÅ™edmÄ›tu **NÃ¡stroje a MoÅ¾nosti Internetu - NAMI**.
+
+Na webu jsem nemìla co mìnit. Nenašla jsem ádnou chybu.
