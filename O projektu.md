@@ -139,3 +139,5 @@ title: O projektu
       Jmenujeme se Markéta Wolna a Sára Hrabalová a je nám 21 a 19 let. 
       Studujeme Informační Studia a Knihovnictví na Masarykově Univerzitě v Brně.
       Tento projekt je součástí předmětu **Nástroje a Možnosti Internetu - NAMI**.
+
+Na webu jsem nem�la co m�nit. Nena�la jsem ��dnou chybu.
